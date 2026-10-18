@@ -1,0 +1,6 @@
+{
+  "name": "KDV Tutarı Hesaplayan Program - Enes Öztürk",
+  "description": "Java ile kullanıcıdan alınan tutarın KDV tutarını ve KDV'li fiyatını hesaplayan program, interaktif Java konsol simülatörü ve ödev teslim raporu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
